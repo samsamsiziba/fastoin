@@ -36,3 +36,22 @@ h5{
     font-size: 14px;
     font-weight: normal;
 }
+
+
+.subbox{
+    border: 1px solid transparent;
+    background-color: whitesmoke;
+    height: 50px;
+}
+
+o1{
+    float: left;
+}
+
+o1-1i{
+    float: left;
+    width: 90px;
+    position: relative;
+    left: 25%;
+    list-style-type: none;
+}
