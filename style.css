@@ -44,6 +44,10 @@ h5{
     height: 50px;
 }
 
+ol{
+    float: left;
+}
+
 ol li{
     float: left;
     width: 90px;
@@ -61,4 +65,11 @@ ol li a {
 
 ol li a:hover{
     border-bottom: 4px solid red;
+}
+
+.fa-search{
+position:absolute;
+left: 82%;
+top: 9%;
+
 }
